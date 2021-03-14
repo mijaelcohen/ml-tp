@@ -1,10 +1,10 @@
 
 ### Proyect for mercadolibre
 
-this is a simple basic search app.
+This is a simple basic search app.
 I used sapper because time was short and performance and scalability was important.
 My first option was nextJs but quickly changed to sapper for a more agile and fast development.
-Check here the [docs](https://sapper.svelte.dev/docs/)
+If any doubts, check here the [docs](https://sapper.svelte.dev/docs/)
 
 ### Running the project
 
