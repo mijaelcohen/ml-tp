@@ -1,5 +1,11 @@
 
-### Proyect made with sapper
+### Proyect for mercadolibre
+
+this is a simple basic search app.
+I used sapper because time was short and performance and scalability was important.
+My first option was nextJs but quickly changed to sapper for a more agile and fast development.
+Check here the [docs](https://sapper.svelte.dev/docs/)
+
 ### Running the project
 
 Once you have cloned the project, install dependencies and run the project in development mode:
