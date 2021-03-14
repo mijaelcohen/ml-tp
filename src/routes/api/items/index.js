@@ -35,10 +35,6 @@ function parseResponse(data){
     categories = filters.values[0].path_from_root.map((obj)=>{
       return obj.name
     }); 
-  }else{
-    categories = filter.values.map((obj)=>{
-      return obj.name
-    })
   }
   
   //trim fat for products
